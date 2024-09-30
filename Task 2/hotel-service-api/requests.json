@@ -1,0 +1,34 @@
+[
+  {
+    "id": "a1b2c3d4-5678-9abc-def0-1234567890ab",
+    "guestName": "Jane Smith",
+    "roomNumber": 305,
+    "requestDetails": "Requesting breakfast",
+    "priority": 3,
+    "status": "in progress"
+  },
+  {
+    "id": "2902bae0-d0b7-42a1-b14a-41a9606b8fd7",
+    "guestName": "Alice Johnson",
+    "roomNumber": 402,
+    "requestDetails": "Requesting cleaning service",
+    "priority": 2,
+    "status": "received"
+  },
+  {
+    "id": "7fab2e57-2846-408b-a6a0-ef8cdce7ee43",
+    "guestName": "Alice Johnson",
+    "roomNumber": 402,
+    "requestDetails": "Requesting towel change",
+    "priority": 1,
+    "status": "received"
+  },
+  {
+    "id": "fbca2424-215c-47eb-99f6-26966195ccc4",
+    "guestName": "Alice Johnson",
+    "roomNumber": 402,
+    "requestDetails": "Requesting cleaning service",
+    "priority": 2,
+    "status": "received"
+  }
+]
